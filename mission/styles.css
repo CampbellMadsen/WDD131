@@ -1,0 +1,39 @@
+body{
+    max-width: 700px;
+    margin:auto;
+}
+.dark{
+    background-color: #333;
+    color:white;
+}
+.dark h3{
+    color: #4F9ACF;
+}
+div{
+    border: rgba(0, 0, 0, 0.367) solid 1px;
+    padding: 50px 100px 50px 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h1 {
+    line-height: 1.5em;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+    letter-spacing: 4px;
+}
+h3 {
+    color: #006EB6;
+    margin: 0 auto;
+    font-weight: 100;
+    text-align: center;
+}
+p, li{
+    line-height: 1.5;
+    font-size: 1.1em;
+}
+img{
+    display: block;
+    width: 150px;
+    margin: auto;
+}
